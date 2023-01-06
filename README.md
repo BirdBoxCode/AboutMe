@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
-- 🌱 I’m currently diving deeper into **JavaScript**
 
-- 👊🏽 I've just finished a project [MOSS Radio](https://www.mossradio.live/)
+- 👊🏽 Just finished the project [MOSS Radio](https://www.mossradio.live/)
 
-- 👾 Starting work on version 2 of [Beat Em Hub](https://beatemhub.com/)
+- 👾 Starting work on Version 2.0 of [Beat Em Hub](https://beatemhub.com/)
+- - 🌱 Currently diving deeper into **JavaScript**
 
 - 💬 Ask me about **Front-end design!**
 
