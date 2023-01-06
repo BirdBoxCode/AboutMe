@@ -4,6 +4,8 @@
 <p align="right">
 <iframe src="https://giphy.com/embed/UmQrx37p5LVxC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/video-games-game-UmQrx37p5LVxC">via GIPHY</a></p>
 
+![](https://github.com/Your_Repository_Name/game.gif)
+
 <h2 align="left">More about me:</h2>
 <p align="left"> Junior Full-Stack Developer 💻 , Gaming Nerd 🎮 , & New Code Enthusiast 🤓 ! Experienced project manager in tech indsutries, now leading the web-development and technical infrastructure of the exciting Berlin based gaming network "Beat Em Hub". Our latest project - NerdAdvisor! Now pushing my front-end design even further, and delving into the back-end world. Excited to learn from you awesome developers out there! 💫 </p>
 
