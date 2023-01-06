@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Chris!</h1>
 <h3 align="center">Gaming Nerd & Code Enthusiast 🌱</h3>
 
-<p align="center"></p>
+<p align="center">Junior Full-Stack developer with a love for design! As a passionate gamer, </p>
 
 <p align="center">
 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
