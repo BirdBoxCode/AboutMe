@@ -12,13 +12,19 @@
 <p align="center">
 - 👾 Starting work on Version 2.0 of [Beat Em Hub](https://beatemhub.com/)
 </p>
+<p align="center">
 - - 🌱 Currently diving deeper into **JavaScript**
-
+</p>
+<p align="center">
 - 💬 Ask me about **Front-end design!**
-
+</p>
+<p align="center">
 - 📫 How to reach me **chris@beatemhub.com**
+</p>
 
+<p align="center">
 <h3 align="left">Connect with me:</h3>
+</p>
 <p align="left">
 <a href="https://linkedin.com/in/christopher-mccarthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-mccarthy" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Sd22pa438Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Sd22pa438Q" height="30" width="40" /></a>
