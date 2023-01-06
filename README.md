@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Chris!</h1>
 <h3 align="center">Gaming Nerd & Code Enthusiast 🌱</h3>
 
-- 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
+<p align="center"></p>
 
+- 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
 - 👊🏽 Just finished the project [MOSS Radio](https://www.mossradio.live/)
 
