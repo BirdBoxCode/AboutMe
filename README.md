@@ -1,26 +1,20 @@
-<h1 align="center">Hey 👋, I'm Chris!</h1>
-<h3 align="center">Gaming Nerd & Code Enthusiast 🌱</h3>
+<h1 align="center">Hey there! 👋, I'm Chris!</h1>
+<h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure and Lead Melee DPS @ BEAT EM HUB 🕹</h3>
 
-<p align="center">Junior Full-Stack developer with a love for design! As a passionate gamer, </p>
+<h1 align="left">More about me:</h1>
+<p align="left">Gaming Nerd & Code Enthusiast 🌱 Junior Full-Stack developer with a love for design, gaming, and music! With lots of experience with porject management in the Tech industries As a passionate gamer, </p>
 
-<p align="center">
 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
-</p>
-<p align="center">
+
 👊🏽 Just finished the project [MOSS Radio](https://www.mossradio.live/)
-</p>
-<p align="center">
+
 👾 Starting work on Version 2.0 of [Beat Em Hub](https://beatemhub.com/)
-</p>
-<p align="center">
+
 🌱 Currently diving deeper into **JavaScript**
-</p>
-<p align="center">
+
 💬 Ask me about **Front-end design!**
-</p>
-<p align="center">
+
 📫 How to reach me **chris@beatemhub.com**
-</p>
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
@@ -32,3 +26,5 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiefinabox&show_icons=true&locale=en&layout=compact" alt="thiefinabox" /></p>
