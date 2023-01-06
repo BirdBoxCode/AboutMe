@@ -5,16 +5,19 @@
 
 <p align="center">
 - 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
-
+</p>
+<p align="center">
 - 👊🏽 Just finished the project [MOSS Radio](https://www.mossradio.live/)
-
+</p>
+<p align="center">
 - 👾 Starting work on Version 2.0 of [Beat Em Hub](https://beatemhub.com/)
+</p>
 - - 🌱 Currently diving deeper into **JavaScript**
 
 - 💬 Ask me about **Front-end design!**
 
 - 📫 How to reach me **chris@beatemhub.com**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christopher-mccarthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-mccarthy" height="30" width="40" /></a>
