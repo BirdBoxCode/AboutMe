@@ -1,10 +1,9 @@
 <h1 align="center">Hey there 👋 , I'm Chris! 🌱</h1>
 <h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure and Lead Melee DPS @ BEAT EM HUB 🕹</h3>
 
-
+<h2 align="left">More about me:</h2>
 <img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "150px" width="300px" align = "right"/>
 
-<h2 align="left">More about me:</h2>
 <p align="left"> Junior Full-Stack Developer 💻 , Gaming Nerd 🎮 , & New Code Enthusiast 🤓 ! Experienced project manager in tech indsutries, now leading the web-development and technical infrastructure of the exciting Berlin based gaming network "Beat Em Hub". Our latest project - NerdAdvisor! Now pushing my front-end design even further, and delving into the back-end world. Excited to learn from you awesome developers out there! 💫 </p>
 
 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
