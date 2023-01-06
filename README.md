@@ -5,7 +5,7 @@
 
 <p align="left"> Junior Full-Stack Developer 💻 , Gaming Nerd 🎮 , & New Code Enthusiast 🤓 ! Experienced project manager in tech indsutries, now leading the web-development and technical infrastructure of the exciting Berlin based gaming network "Beat Em Hub". Our latest project - NerdAdvisor! Now pushing my front-end design even further, and delving into the back-end world. Excited to learn from you awesome developers out there! 💫 </p>
 
-<img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "150px" width="300px" align = "right"/>
+<img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "250px" width="400px" align = "right"/>
 
 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
