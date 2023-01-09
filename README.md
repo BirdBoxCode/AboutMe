@@ -3,15 +3,13 @@
 
 
 <h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB</h3>
-<p align="center">
-<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p">
-</p>
 
 <h2 align="left">More about me:</h2>
 
 <p align="left"> Gaming Nerd 🎮 , & New Code Enthusiast 🤓 ! Experienced project manager in tech indsutries, now leading the web-development and technical infrastructure of the exciting Berlin based gaming network "Beat Em Hub". Our latest project - NerdAdvisor! Now pushing my front-end design even further, and delving into the back-end world. Excited to learn from you awesome developers out there! 💫 </p>
 
-<img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "230px" width="350px" align = "right"/>
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p" align = "right">
+
 
 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
