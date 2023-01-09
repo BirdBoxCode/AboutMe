@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
 
 
-<h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB🕹</h3>
+<h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB 🕹</h3>
 
 <h2 align="left">More about me:</h2>
 
