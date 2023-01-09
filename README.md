@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋 , I'm Chris! 🌱</h1>
 <img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox.png?raw=true" height ="100px" width="100px" align = "middle">
+<h1 align="center">Hey there 👋 , I'm Chris! 🌱</h1>
 <h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB 🕹</h3>
 
 <h2 align="left">More about me:</h2>
