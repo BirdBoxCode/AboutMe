@@ -1,5 +1,5 @@
 
-<p align="center" style = "padding-bottom: -20px">
+<p align="center">
 <img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p">
 </p>
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
