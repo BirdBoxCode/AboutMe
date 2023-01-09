@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋 , I'm Chris! <img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p"></h1>
+<h1 align="center">Hey there 👋 , I'm Chris!</h1>
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p">
 
 <h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB 🕹</h3>
 
