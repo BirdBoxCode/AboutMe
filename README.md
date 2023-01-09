@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "150px" width="250px"/>
-  <img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="250px" width="250p" align="right">
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="150px" width=150px">
 </p>
 
 
