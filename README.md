@@ -12,8 +12,9 @@
 <img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "150px" width="250px"/>
 </p>
 
-<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="250px" width="250p" align = "right">
-
+<p align="right">
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="250px" width="250p">
+</p>
 
 🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
