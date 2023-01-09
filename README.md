@@ -1,4 +1,4 @@
-<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox.png?raw=true" height ="70px" width="70px" align = "middle">
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox.png?raw=true" height ="70px" width="70px" align = "middle" border-radius="20px">
 <h1 align="center">Hey there 👋 , I'm Chris! 🌱</h1>
 <h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB 🕹</h3>
 
