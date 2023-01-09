@@ -1,6 +1,6 @@
 
-<p align="center">
-<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p" style = "padding-bottom: -30px">
+<p align="center" style = "margin-bottom: -20px">
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p">
 </p>
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
 
