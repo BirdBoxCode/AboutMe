@@ -1,4 +1,4 @@
-<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p" align = "center">
+<img src="https://github.com/ThiefinaboX/ThiefinaboX/blob/main/Birdbox-Circle.png?raw=true" height ="70px" width="70p" align = "middle">
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
 
 
