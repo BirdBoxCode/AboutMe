@@ -2,7 +2,6 @@
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
 <p align="center"><img src ="https://github.com/BirdBoxCode/BirdBoxCode/blob/main/Birdbox-Circle.png?raw=true" height="80px" width="80px"></p>
 <h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB 🕹</h3>
-<script = "<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787138791?h=8b71c22e4f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bucht der Tr&amp;auml;umer Festival 2022 Vibes"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <h2 align="left">More about me:</h2>
 
