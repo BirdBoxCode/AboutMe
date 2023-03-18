@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
 <p align="center"><img src ="https://github.com/BirdBoxCode/BirdBoxCode/blob/main/Birdbox-Circle.png?raw=true" height="80px" width="80px"></p>
-<h3 align="center">Junior Full-Stack Web Developer | Head of Technical Infrastructure & Lead Melee DPS @ BEAT EM HUB 🕹</h3>
+<h3 align="center">Front-End Web Developer | CEO & Head of Technical Infrastructure @ BEAT EM HUB 🕹</h3>
 
 <h2 align="left">More about me:</h2>
 
