@@ -3,7 +3,7 @@
 <p align="center"><img src ="https://github.com/BirdBoxCode/BirdBoxCode/blob/main/Birdbox-Circle.png?raw=true" height="80px" width="80px"></p>
 <h3 align="center">Front-End Web Developer | CEO & Head of Technical Infrastructure @ BEAT EM HUB 🕹</h3>
 
-<h2 align="left">More about me:</h2>
+<h2 align="left">More about me: </h2>
 
 <p align="left"> Gaming Nerd 🎮 , & New Code Enthusiast 🤓 ! Experienced project manager in tech indsutries, now leading the web-development and technical infrastructure of the exciting Berlin based gaming network "Beat Em Hub". Our latest project - NerdAdvisor! Now pushing my front-end design even further, and delving into the back-end world. Excited to learn from you awesome developers out there! 💫 </p>
 
