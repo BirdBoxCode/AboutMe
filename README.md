@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there 👋 , I'm Chris!</h1>
 <p align="center"><img src ="https://github.com/BirdBoxCode/BirdBoxCode/blob/main/Birdbox-Circle.png?raw=true" height="80px" width="80px"></p>
-<h3 align="center">Front-End Web Developer | CEO & Head of Technical Infrastructure @ BEAT EM HUB 🕹</h3>
+<h3 align="center">Front-End Web Developer | Co-Founder & Head of Tech @ BEAT EM HUB 🕹</h3>
 
 <h2 align="left">More about me:</h2>
 
@@ -9,11 +9,13 @@
 
 <img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "230px" width="350px" align = "right"/>
 
-🔭 Currently working on [NerdAdvisor](https://vimeo.com/786852077)
+🙋🏼‍♂️ My Personal Website [Birdbox Code](https://birdboxcode.dev/)
+
+👾 My first ever website [Beat Em Hub](https://beatemhub.com/)
+
+🔭 Currently working on [NerdAdvisor](http://www.nerdadvisor.org/)
 
 👊🏽 Just finished the project [MOSS Radio](https://www.mossradio.live/)
-
-👾 Starting work on Version 2.0 of [Beat Em Hub](https://beatemhub.com/)
 
 🌱 Currently diving deeper into **JavaScript**
 
