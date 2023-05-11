@@ -11,7 +11,7 @@
 
 🙋🏼‍♂️ My Personal Website [Birdbox Code](https://birdboxcode.dev/)
 
-👾 Co-Founder of Beat Em Hub [Beat Em Hub](https://beatemhub.com/)
+👾 Co-Founder and Developer of [Beat Em Hub](https://beatemhub.com/)
 
 🔭 Our Career Development Platform (in the works) [NerdAdvisor](http://www.nerdadvisor.org/)
 
