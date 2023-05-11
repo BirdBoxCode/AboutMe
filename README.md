@@ -5,7 +5,7 @@
 
 <h2 align="left">More about me:</h2>
 
-<p align="left"> Gaming Nerd 🎮 , & New Code Enthusiast 🤓 ! Experienced project manager in tech indsutries, now leading the web-development and technical infrastructure of the exciting Berlin based gaming network "Beat Em Hub". Our latest project - NerdAdvisor! Now pushing my front-end design even further, and delving into the back-end world. Excited to learn from you awesome developers out there! 💫 </p>
+<p align="left"> Junior web developer with a passion for design, a background in communications, and a love for gaming & music. With experience in frontend design and implementation within the gaming industry, I love working with dynamic teams that share my passion for innovation within the tech and gaming scenes. 🎮👾 </p>
 
 <img src="https://media.giphy.com/media/UmQrx37p5LVxC/giphy.gif" height = "230px" width="350px" align = "right"/>
 
