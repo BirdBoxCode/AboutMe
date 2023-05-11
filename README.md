@@ -11,11 +11,11 @@
 
 🙋🏼‍♂️ My Personal Website [Birdbox Code](https://birdboxcode.dev/)
 
-👾 My first ever website [Beat Em Hub](https://beatemhub.com/)
+👾 Co-Founder of Beat Em Hub [Beat Em Hub](https://beatemhub.com/)
 
-🔭 Currently working on [NerdAdvisor](http://www.nerdadvisor.org/)
+🔭 Our Career Development Platform (in the works) [NerdAdvisor](http://www.nerdadvisor.org/)
 
-👊🏽 Just finished the project [MOSS Radio](https://www.mossradio.live/)
+👊🏽 First Ruby on Rails project [MOSS Radio](https://www.mossradio.live/)
 
 🌱 Currently diving deeper into **JavaScript**
 
